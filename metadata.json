@@ -1,0 +1,5 @@
+{
+  "name": "Remix: 4컷 만능 만화 생성기 PRO",
+  "description": "주제를 입력하면 여러 스타일의  4컷 만화를 생성합니다. 대본을 먼저 생성한 후, 각 컷의 이미지를 개별적으로 생성할 수 있습니다.",
+  "requestFramePermissions": []
+}
